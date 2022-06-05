@@ -162,3 +162,17 @@ cursor: pointer;
   font-weight: 700;
   color: rgb(255, 255, 255);
 }
+.right2 button a:hover{
+  color: burlywood;
+}
+.section3{
+  background: burlywood;
+  height: 800px ;
+  padding-top: 30px;
+}
+.right2 li{
+  list-style: none;
+}
+.right2 h3{
+  
+}
