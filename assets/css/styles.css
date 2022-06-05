@@ -1,0 +1,164 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.logo img{
+height: 150px;
+width: 180px;
+cursor: pointer;
+}
+.content1{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.navbar{
+  background: burlywood;
+  position: absolute;
+  width: 100%;
+  height: 150px;
+  position: fixed;
+  
+}
+.logo{
+  float: left;
+  width: 500px;
+}
+.rightnav{
+  float: right;
+  padding-top: 60px;
+  padding-left: 100px;
+
+}
+
+
+.navbar .rightnav li{
+  list-style: none;
+  display: inline-block;
+
+}
+.navbar .rightnav li a{
+  text-decoration: none;
+  color: rgb(8, 8, 119);
+  font-weight: 700;
+  font-size: 22px;
+  margin-left: 40px;
+}
+.navbar .rightnav li a:hover{
+  border-bottom: solid rgb(8, 8, 119);
+  border-width: 7px;
+  color: rgb(255, 255, 255);
+}
+.section1{
+  background: url("../imgs/background.jpeg") no-repeat center;
+  background-size: cover;
+  height: 700px;
+  color: beige;
+  /* width: 100%; */
+  padding-top: 250px;
+  padding-left: 50px;
+}
+.container1{
+  display: flex;
+  flex-direction: row;
+  height: 600px;
+  /* width: 100%; */
+  justify-content: space-between;
+  padding: 50px;
+}
+.right1{
+  float: right;
+  width: 30%;
+  
+}
+.left1{
+  float: left;
+  width: 70%;
+  
+}
+.left1 h1{
+  font-size: 55px;
+  color: burlywood;
+}
+.left1>h3>span{
+  color: burlywood;
+}
+.left1 h3{
+  font-size: 40px;
+}
+.left1 p{
+  font-size: 30px;
+}
+.left1 button a{
+  text-decoration: none;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(8, 8, 119);
+}
+.left1 button{
+  border: solid transparent;
+  border-radius: 10px;
+  margin-left: 60px;
+  padding: 10px;
+  background-color: burlywood;
+}
+.left1 button a:hover{
+ color: white;
+}
+.section2{
+  height: 600px;
+}
+.aboutme{
+  height: 100px;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(8, 8, 119);
+  font-size: 40px;
+  font-weight: 700;
+}
+.left2{
+  float: left;
+  padding: 50px;
+  height: 400px;
+  width: 50%;
+}
+.right2{
+  float: right;
+  height: 400px;
+  width: 50%;
+  padding-top: 30px;
+  padding-right: 40px;
+}
+.left2 img{
+  width: 500px;
+  height: 400px;
+  border: solid transparent;
+  border-radius: 5px;
+}
+.container2{
+  display: flex;
+  flex-direction: row;
+}
+.right2 h2{
+  color: burlywood;
+  font-size: 30px;
+}
+.right2 p{
+  line-height: 25px;
+}
+.right2 button{
+  border: solid transparent;
+  border-radius: 10px;
+  margin-left: 60px;
+  padding: 10px;
+  background-color: rgb(8, 8, 119);
+}
+.right2 button a{
+  text-decoration: none;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
