@@ -383,3 +383,112 @@ cursor: pointer;
 .button input[type="button"]:hover{
   background: rgb(222, 135, 210);
 }
+.heade {
+  padding-left: 150px;
+  padding-top: 50px;
+  height: 130px;
+  font-size: 30px;
+  font-weight: lighter;
+  color: #fffff2;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.footer1 {
+  background-color: #000000;
+  height: 400px;
+  width: 100%;
+}
+
+.heade span {
+  color: #fff;
+  height: 100px;
+  width: 100%;
+}
+
+#content2 {
+  height: 300px;
+  width: 1000px;
+  margin: auto;
+  margin-bottom: 10px;
+  color: #ffffff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap
+}
+
+.four {
+  height: 300px;
+  padding-top: 50px;
+}
+
+.five {
+  height: 300px;
+}
+
+.six {
+  height: 300px;
+}
+
+.seven {
+  height: 300px;
+}
+
+.five ul>li>a {
+  color: rgb(241, 241, 231);
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.six ul>li>a {
+  color: rgb(241, 241, 231);
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.seven ul>li>a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 10px;
+
+}
+
+.five ul>li {
+  list-style: none;
+}
+
+.six ul>li {
+  list-style: none;
+}
+
+.seven ul>li {
+  list-style: none;
+}
+
+.fa-facebook {
+  background: #000000;
+  color: white;
+  text-decoration: none;
+}
+
+.fa-twitter {
+  background: #000000;
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.fa-instagram {
+  background: #000000;
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+.btn5{
+  background: burlywood;
+  padding: 10px;
+  border: solid transparent;
+  border-radius: 5px;
+  color: #fff;
+}
