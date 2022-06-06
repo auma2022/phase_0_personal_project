@@ -324,3 +324,62 @@ cursor: pointer;
   background: var(--clr-primary-5);
   color: var(--clr-primary-1);
 }
+.section6{
+  background: burlywood;
+  height: 700px;
+  padding-top: 50px;
+}
+ .right4 .topic-text{
+  font-size: 25px;
+  font-weight: 600;
+  color: rgb(8, 8, 119);
+}
+.right4{
+  float: right;
+  height: 400px;
+  width: 50%;
+  padding-top: 100px;
+  padding-right: 40px;
+  
+}
+.right4 .input-box{
+  height: 50px;
+  width: 100%;
+  margin: 12px 0;
+}
+.right4 .input-box input,
+.right4 .input-box textarea{
+  height: 100%;
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  background: #F0F1F8;
+  border-radius: 6px;
+  padding: 0 15px;
+  resize: none;
+}
+.right4 .message-box{
+  min-height: 110px;
+}
+.right4 .input-box textarea{
+  padding-top: 6px;
+}
+.right4 .button{
+  display: inline-block;
+  margin-top: 12px;
+}
+.right4 .button input[type="button"]{
+  color: #fff;
+  font-size: 18px;
+  outline: none;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  background: rgb(8, 8, 119);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.button input[type="button"]:hover{
+  background: rgb(222, 135, 210);
+}
