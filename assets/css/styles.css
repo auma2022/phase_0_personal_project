@@ -181,7 +181,7 @@ cursor: pointer;
   color: rgb(8, 8, 119);
 }
 #comp{
-  width: 700px;
+  width: 500px;
 }
 .section4{
   height: 600px;
@@ -191,8 +191,8 @@ cursor: pointer;
   list-style: none;
 }
 .right3 img{
-  height: 400px;
-  width: 200px;
+  height: 450px;
+  width: 250px;
 }
 .right3{
   float: right;
