@@ -28,10 +28,10 @@ const team = [
   },
   {
     id: 1,
-    name: "Diana Rose",
-    job: "The Boss",
+    name: "Diamond Platnamz",
+    job: "The Chief Instructor",
     img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv73ktYF-1mLeqt7LNWlJflAWg6VLNkhZRIA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0NaNIfQqID4ueuuVi5kTenSUJXdrpoVgeg&usqp=CAU",
     text:
       "I'm baby meggings twmbray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
   },
